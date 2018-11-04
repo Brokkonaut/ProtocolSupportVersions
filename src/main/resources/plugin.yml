@@ -1,0 +1,12 @@
+name: ProtocolSupportVersions
+
+main: de.iani.psv.ProtocolSupportVersionsPlugin
+
+version: "1.0"
+api-version: 1.13
+
+author: Brokkonaut
+description: ProtocolSupportVersions
+ 
+ 
+depend: [ProtocolSupport]
